@@ -41,12 +41,13 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 - **Responsibilities**: Developed a residency mobile application for events and co-curricular activity tracking.
 
 ## 📦 Technical/Hackathon Projects
-### *Project Name*: Q.Now
+### *Project Name*: Q.Now | IEEE iNTUition Hackathon Champions
 - *Description*: Q.now is a MedTech Flutter mobile application that provides a comparative analysis of waiting times and costs of nearby clinics for patients to make informed decisions.
 - **Technologies used**: Flutter
-- **[View Project](#)** or **[Source Code](#)**
+- **[View Project](#https://devpost.com/software/asdf-5nl32r)**
 
-
+### *Project Name*: NexusWrap | NUS Fintech Summit 2nd Runner-Up
+- *Description*: NexusWrap is a FinTech payment platform that addresses the issue of interoperability of cross-chain transactions. We developed a full-stack Bank-to-Bank / User-to-User simulated conditional token-wrapping and atomic swap web prototype inspired by the XRP inter-ledger protocol.
 
 ## 👨‍💻 My Coding Journey 
    I started my coding journey with Lego Mindstorm Block Programming during my time as a member of the Robotics Club for almost 10 years. In that 10 years, I've learned to build and code: a coloured ball sorting machine, sumo bots, line-tracing robots and a bipedal walking robot. In Junior College, I attended multiple workshops on game development, building my own 3rd Person Shooter using Unity3D. I entered the world of Computer Science right after my National Service as I wanted to learn everything I could about this programming world, all while building my first mobile application, an iOS To-Do-List app, and thereafter a basic workout mobile application for my small eCommerce business. I've since been a Frontend Developer for my residence at NUS Sheares Hall, and a Software Developer for a start-up called OmegaCity. If you have any opportunities or would like to network do let me know! :)
