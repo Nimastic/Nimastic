@@ -44,8 +44,8 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
   - Developed a residency mobile application for events and co-curricular activity tracking.
 
 ## 📦 Technical Projects
-- **Project Name**: Real-time Data Dashboard
-- **Description**: Developed a dashboard for visualizing real-time data from IoT devices.
+- *Project Name*: Real-time Data Dashboard
+- *Description*: Developed a dashboard for visualizing real-time data from IoT devices.
 - **Technologies used**: JavaScript, D3.js, Python.
 - **[View Project](#)** or **[Source Code](#)**
 
