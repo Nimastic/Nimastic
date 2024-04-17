@@ -46,7 +46,7 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 - **Technologies used**: JavaScript, D3.js, Python.
 - **[View Project](#)** or **[Source Code](#)**
 
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+## 👨‍💻 My Coding Journey 
    I started my coding journey with Lego Mindstorm Block Programming during my time as a member of the Robotics Club for almost 10 years. In that 10 years, I've learned to build and code: a coloured ball sorting machine, sumo bots, line-tracing robots and a bipedal walking robot. In Junior College, I attended multiple workshops on game development, building my own 3rd Person Shooter using Unity3D. I entered the world of Computer Science right after my National Service as I wanted to learn everything I could about this programming world, all while building my first mobile application, an iOS To-Do-List app, and thereafter a basic workout mobile application for my small eCommerce business. I've since been a Frontend Developer for my residence at NUS Sheares Hall, and a Software Developer for a start-up called OmegaCity. If you have any opportunities or would like to network do let me know! :)
  
 
