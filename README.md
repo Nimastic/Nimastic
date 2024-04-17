@@ -57,7 +57,7 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 https://www.jerielchan.com/blog.html (WIP)
 
 ## 📬 Get in Touch
-- LinkedIn: www.linkedin.com/in/jerielchan
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white):  www.linkedin.com/in/jerielchan
 - Personal Website: www.jerielchan.com
 - Telegram: www.t.me/jerielchan
 
