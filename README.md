@@ -31,17 +31,13 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimastic&show_icons=true&theme=radical)
 
 ## 👨🏻‍💻 Technical Experience
-- **Role**: Software Developer
-- **Company**: Omega Education
+- **Software Developer**, Omega Education
 - **Duration**: November 2023 - March 2024
-- **Responsibilities**:
-  - Developed a gamified coding platform using Phaser.js frontend and Colysseus multiplayer framework.
+- **Responsibilities**: Developed a gamified coding platform using Phaser.js frontend and Colysseus multiplayer framework.
  
-- **Role**: Frontend Developer
-- **Company**: NUS Sheares Hall Residences
+- **Frontend Developer**:, NUS Sheares Hall Residences
 - **Duration**: May 2023 - March 2024
-- **Responsibilities**:
-  - Developed a residency mobile application for events and co-curricular activity tracking.
+- **Responsibilities**: Developed a residency mobile application for events and co-curricular activity tracking.
 
 ## 📦 Technical Projects
 - *Project Name*: Real-time Data Dashboard
