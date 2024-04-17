@@ -1,16 +1,14 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Jeriel! 👋
 
-Welcome to my GitHub! I'm [Your Job Title/Role], and I'm passionate about [briefly mention your interests or areas of expertise]. Here you'll find projects ranging from [mention general types of projects, like web development, machine learning, etc.] to [another type of project], showcasing my skills and interests.
+Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the National University of Singapore, and I'm passionate about Computer Science and Entrepreneurship. Here you'll find projects ranging from FreeCodeCamp Web Development to Mobile Application Development for NUS's Orbital Software Engineering Project, showcasing my skills and interests.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [mention any ongoing project or learning path]
-- 🌱 I’m currently learning [mention any new technology or field you're exploring]
-- 👯 I’m looking to collaborate on [mention any type of project or technology you're interested in]
-- 🤔 I’m looking for help with [mention any area where you seek help or collaboration]
+- 🔭 I’m currently working on a Social Media Mobile Application with my friends.
+- 🌱 I’m currently learning AI, Design and Analysis of Algorithms and Networks.
+- 👯 I’m looking to collaborate on any Software Engineering Projects.
 - 💬 Ask me about [topics you are knowledgeable about]
 - 📫 How to reach me: [your email or social media links]
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [interesting fact or hobby]
+- ⚡ Fun fact: I play Volleyball, draw Digital Art and volunteer in my free time (not a lot)
 
 ## 🛠 Skills
 - Languages: [mention languages you are proficient in, like JavaScript, Python, etc.]
@@ -18,7 +16,7 @@ Welcome to my GitHub! I'm [Your Job Title/Role], and I'm passionate about [brief
 - Other: [any other skills or tools]
 
 ## 🔥 My Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimastic&show_icons=true&theme=radical)
 
 ## 📦 Projects
 [Describe a few of your notable projects. Include links to repositories if they're hosted on GitHub.]
@@ -27,9 +25,9 @@ Welcome to my GitHub! I'm [Your Job Title/Role], and I'm passionate about [brief
 [Links to your latest blog posts or external articles.]
 
 ## 📬 Get in Touch
-- LinkedIn: [your LinkedIn profile]
-- Twitter: [your Twitter account]
-- Personal Website: [your website URL]
+- LinkedIn: www.linkedin.com/in/jerielchan
+- Personal Website: www.jerielchan.com
+- Telegram: www.t.me/jerielchan
 
 ## 📝 License
 [If you apply licenses to your projects, mention them here.]
