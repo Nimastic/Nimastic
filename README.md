@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 - 👯 I’m looking to collaborate on any Software Engineering Projects.
 - 💬 Ask me about anything!
 - 📫 How to reach me: jerielchanzy@gmail.com or www.t.me/jerielchan
-- ⚡ Fun fact: I play Volleyball, draw Digital Art, and volunteer in my free time (not a lot)
+- ⚡ Fun fact: I play Volleyball, draw Digital Art, and volunteer in my free time (not a lot of it right now)
 
 ## 🛠 Languages and Tools
 
