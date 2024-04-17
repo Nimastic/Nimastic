@@ -31,11 +31,11 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimastic&show_icons=true&theme=radical)
 
 ## 👨🏻‍💻 Technical Experience
-- **Software Developer**, Omega Education
+- **Software Developer**, Omega City, Omega Education
 - **Duration**: November 2023 - March 2024
 - **Responsibilities**: Developed a gamified coding platform using Phaser.js frontend and Colysseus multiplayer framework.
  
-- **Frontend Developer**:, NUS Sheares Hall Residences
+- **Frontend Developer**, NUS Sheares Hall Residences
 - **Duration**: May 2023 - March 2024
 - **Responsibilities**: Developed a residency mobile application for events and co-curricular activity tracking.
 
@@ -44,6 +44,11 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 - *Description*: Developed a dashboard for visualizing real-time data from IoT devices.
 - **Technologies used**: JavaScript, D3.js, Python.
 - **[View Project](#)** or **[Source Code](#)**
+
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+   I started my coding journey with Lego Mindstorm Block Programming during my time as a member of the Robotics Club for almost 10 years. In that 10 years, I've learned to build and code: a coloured ball sorting machine, sumo bots, line-tracing robots and a bipedal walking robot. In Junior College, I attended multiple workshops on game development, building my own 3rd Person Shooter using Unity3D. I entered the world of Computer Science right after my National Service as I wanted to learn everything I could about this programming world, all while building my first mobile application, an iOS To-Do-List app, and thereafter a basic workout mobile application for my small eCommerce business. I've since been a Frontend Developer for my residence at NUS Sheares Hall, and a Software Developer for a start-up called OmegaCity. If you have any opportunities or would like to network do let me know! :)
+ 
 
 ## 📜 Latest Blog Posts
 https://www.jerielchan.com/blog.html (WIP)
