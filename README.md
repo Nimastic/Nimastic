@@ -6,8 +6,8 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 - 🔭 I’m currently working on a Social Media Mobile Application with my friends.
 - 🌱 I’m currently learning AI, Design and Analysis of Algorithms and Networks.
 - 👯 I’m looking to collaborate on any Software Engineering Projects.
-- 💬 Ask me about [topics you are knowledgeable about]
-- 📫 How to reach me: [your email or social media links]
+- 💬 Ask me about anything!
+- 📫 How to reach me: jerielchanzy@gmail.com or t.me/jerielchan
 - ⚡ Fun fact: I play Volleyball, draw Digital Art and volunteer in my free time (not a lot)
 
 ## 🛠 Skills
