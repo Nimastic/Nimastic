@@ -7,8 +7,8 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 - 🌱 I’m currently learning Artificial Intelligence, Design and Analysis of Algorithms and Networks.
 - 👯 I’m looking to collaborate on any Software Engineering Projects.
 - 💬 Ask me about anything!
-- 📫 How to reach me: jerielchanzy@gmail.com or t.me/jerielchan
-- ⚡ Fun fact: I play Volleyball, draw Digital Art and volunteer in my free time (not a lot)
+- 📫 How to reach me: jerielchanzy@gmail.com or www.t.me/jerielchan
+- ⚡ Fun fact: I play Volleyball, draw Digital Art, and volunteer in my free time (not a lot)
 
 ## 🛠 Languages and Tools
 
@@ -38,6 +38,16 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 - **Frontend Developer**, NUS Sheares Hall Residences
 - **Duration**: May 2023 - March 2024
 - **Responsibilities**: Developed a residency mobile application for events and co-curricular activity tracking.
+
+### Software Developer at Omega Education
+- **Duration**: November 2023 - March 2024
+- **Responsibilities**:
+  - Developed a gamified coding platform using Phaser.js frontend and Colysseus multiplayer framework.
+
+### Frontend Developer at NUS Sheares Hall Residences
+- **Duration**: May 2023 - March 2024
+- **Responsibilities**:
+  - Developed a residency mobile application for events and co-curricular activity tracking.
 
 ## 📦 Technical Projects
 - *Project Name*: Real-time Data Dashboard
