@@ -12,6 +12,7 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 
 <a href="https://app.daily.dev/jerielchan"><img src="https://api.daily.dev/devcards/v2/cLt0Wwl12vOVGzeHtfWlX.png?r=qxe&type=wide" width="652" alt="Jeriel's Dev Card"/></a>
 
+[![Jeriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimastic)](https://github.com/Nimastic/github-readme-activity-graph)
 
 ## 🛠 Languages and Tools
 
@@ -30,7 +31,7 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-[![Jeriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimastic)](https://github.com/Nimastic/github-readme-activity-graph)
+
 
 ## 👨🏻‍💻 Technical Experience
 
