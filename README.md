@@ -10,6 +10,11 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 - 📫 How to reach me: jerielchanzy@gmail.com or www.t.me/jerielchan
 - ⚡ Fun fact: I play Volleyball, draw Digital Art, and volunteer in my free time (not a lot of it right now)
 
+<td >
+# this is my daily.dev card, you can edit this accordingly
+      <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+    </td>
+
 ## 🛠 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
