@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 [![Jeriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimastic)](https://github.com/Nimastic/github-readme-activity-graph)
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#Nimastic&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#Nimastic" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=#Nimastic&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#Nimastic" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#Nimastic&theme=highcontrast&hide_border=true" alt="#your-username" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#Nimastic&theme=highcontrast&hide_border=true" alt="#Nimastic" />
 
 
 ## 🛠 Languages and Tools
