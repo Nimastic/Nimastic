@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the Nationa
 - 💬 Ask me about anything!
 - 📫 How to reach me: jerielchanzy@gmail.com or www.t.me/jerielchan
 - ⚡ Fun fact: I play Volleyball, draw Digital Art, and volunteer in my free time (not a lot of it right now)
-- 
+![Visitor Count](https://komarev.com/ghpvc/?username=Nimastic&label=Profile%20views&color=0e75b6&style=flat)
 
 <a href="https://app.daily.dev/jerielchan"><img src="https://api.daily.dev/devcards/v2/cLt0Wwl12vOVGzeHtfWlX.png?r=qxe&type=wide" width="652" alt="Jeriel's Dev Card"/></a>
 
