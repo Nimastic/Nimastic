@@ -3,12 +3,12 @@
 Welcome to my GitHub! I'm a Year 2 Computer Science Undergraduate at the National University of Singapore, and I'm passionate about Computer Science and Entrepreneurship. Here you'll find projects ranging from FreeCodeCamp Web Development to Mobile Application Development for NUS's Orbital Software Engineering Project, showcasing my skills and interests. I've also participated in hackathons and won some of them.
 
 ## 🚀 About Me
-- 🔭 I’m working on a Social Media Mobile Application with my friends.
 - 🌱 I’m currently learning Artificial Intelligence, Design and Analysis of Algorithms and Networks.
 - 👯 I’m looking to collaborate on any Software Engineering Projects.
 - 💬 Ask me about anything!
 - 📫 How to reach me: jerielchanzy@gmail.com or www.t.me/jerielchan
 - ⚡ Fun fact: I play Volleyball, draw Digital Art, and volunteer in my free time (not a lot of it right now)
+- 
 
 <a href="https://app.daily.dev/jerielchan"><img src="https://api.daily.dev/devcards/v2/cLt0Wwl12vOVGzeHtfWlX.png?r=qxe&type=wide" width="652" alt="Jeriel's Dev Card"/></a>
 
