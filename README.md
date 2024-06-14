@@ -73,4 +73,4 @@ https://www.jerielchan.com/blog.html (WIP)
 
 Thank you for stopping by my profile! Feel free to connect with me here or on any of the abovementioned platforms.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nimastic&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
