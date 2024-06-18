@@ -1,6 +1,6 @@
 # Hello! 👋
 
-[Visitor Count](https://komarev.com/ghpvc/?username=Nimastic&label=Profile%20views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=Nimastic&label=Profile%20views&color=0e75b6&style=flat)
 
 <a href="https://app.daily.dev/jerielchan"><img src="https://api.daily.dev/devcards/v2/cLt0Wwl12vOVGzeHtfWlX.png?r=qxe&type=wide" width="652" alt="Jeriel's Dev Card"/></a>
 
