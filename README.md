@@ -14,8 +14,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nimastic&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![](https://github.com/Nimastic/Nimastic/blob/main/chat.svg)](https://twitter.com/Nimastic)
-
-[![committers.top badge](https://user-badge.committers.top/india_private/vinayakkulkarni.svg)](https://user-badge.committers.top/india_private/vinayakkulkarni)[![trophy](https://github-profile-trophy.vercel.app/?username=Nimastic)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Nimastic/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Daynlight/Nimastic/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture></br>
 
 
