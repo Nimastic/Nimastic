@@ -14,11 +14,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nimastic&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![](https://github.com/Nimastic/Nimastic/blob/main/chat.svg)](https://twitter.com/Nimastic)
-
-[![committers.top badge](https://user-badge.committers.top/india_private/vinayakkulkarni.svg)](https://user-badge.committers.top/india_private/vinayakkulkarni)[![trophy](https://github-profile-trophy.vercel.app/?username=Nimastic)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nimastic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
