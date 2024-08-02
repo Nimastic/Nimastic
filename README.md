@@ -4,7 +4,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Nimastic&label=Profile%20views&color=0e75b6&style=flat)
 
-<img align="right" alt="Coding" width="200" src="https://github.com/Guo-KeCheng/Guo-KeCheng/assets/96603198/74445e7d-484c-42c0-8ece-b7054dcaaeae">
+<img align="right" alt="Coding" width="200" src="https://github.com/jerielchan/assets/96603198/74445e7d-484c-42c0-8ece-b7054dcaaeae">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
