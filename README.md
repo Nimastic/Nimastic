@@ -6,21 +6,21 @@
 
 <img align="right" alt="Coding" width="200" src="https://github.com/jerielchan/assets/96603198/74445e7d-484c-42c0-8ece-b7054dcaaeae">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jerielchan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guokecheng" height="30" width="40" /></a>
-</p>
+## Connect with me:
 
-<a href="https://app.daily.dev/jerielchan"><img src="https://api.daily.dev/devcards/v2/cLt0Wwl12vOVGzeHtfWlX.png?r=qxe&type=wide" width="652" alt="Jeriel's Dev Card"/></a>
+<a href="https://linkedin.com/in/jerielchan" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guokecheng" height="30" width="40" />
+</a>
+
+<a href="https://app.daily.dev/jerielchan">
+  <img src="https://api.daily.dev/devcards/v2/cLt0Wwl12vOVGzeHtfWlX.png?r=qxe&type=wide" width="652" alt="Jeriel's Dev Card"/>
+</a>
 
 [![Jeriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimastic)](https://github.com/Nimastic/github-readme-activity-graph)
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nimastic&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Nimastic" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimastic&theme=highcontrast&hide_border=true" alt="Nimastic" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nimastic&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Nimastic" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimastic&theme=highcontrast&hide_border=true" alt="Nimastic" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nimastic&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
