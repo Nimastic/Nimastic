@@ -5,7 +5,7 @@
 ## Connect with me:
 
 <a href="https://linkedin.com/in/jerielchan" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guokecheng" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeriel" height="30" width="40" />
 </a>
 
 <a href="https://app.daily.dev/jerielchan">
