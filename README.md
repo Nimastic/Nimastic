@@ -1,10 +1,10 @@
 
-[# Hello! 👋 Visit my personal website](https://www.jerielchan.com)
+# Hello! 👋
+[Visit my personal website](https://www.jerielchan.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Nimastic&label=Profile%20views&color=0e75b6&style=flat)
-## Connect with me:
 
-<a href="https://linkedin.com/in/jerielchan" target="blank">
+## Connect with me: <a href="https://linkedin.com/in/jerielchan" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeriel" height="30" width="40" />
 </a>
 
