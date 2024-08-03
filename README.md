@@ -2,14 +2,11 @@
 [# Hello! 👋 Visit my personal website](https://www.jerielchan.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Nimastic&label=Profile%20views&color=0e75b6&style=flat)
-
-<img align="right" alt="Coding" width="200" src="https://github.com/jerielchan/assets/96603198/74445e7d-484c-42c0-8ece-b7054dcaaeae">
-
 ## Connect with me:
 
 <a href="https://linkedin.com/in/jerielchan" target="blank">
-<!--   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guokecheng" height="30" width="40" />
-</a> -->
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guokecheng" height="30" width="40" />
+</a>
 
 <a href="https://app.daily.dev/jerielchan">
   <img src="https://api.daily.dev/devcards/v2/cLt0Wwl12vOVGzeHtfWlX.png?r=qxe&type=wide" width="652" alt="Jeriel's Dev Card"/>
