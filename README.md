@@ -1,5 +1,4 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Nimastic&label=Profile%20views&color=0e75b6&style=flat)
-
 # Hello! I'm Jeriel 👋
 [Visit my personal website](https://www.jerielchan.com)
 
