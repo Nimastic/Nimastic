@@ -2,6 +2,9 @@
 # Hello! I'm Jeriel 👋
 [Visit my personal website](https://www.jerielchan.com)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 ## Connect with me: <a href="https://linkedin.com/in/jerielchan" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeriel" height="30" width="40" />
