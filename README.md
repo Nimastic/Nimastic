@@ -2,7 +2,7 @@
 # Hello! I'm Jeriel 👋
 [Visit my personal website](https://www.jerielchan.com)
 
-[![committers.top badge](https://user-badge.committers.top/singapore/USERNAME.svg)](https://user-badge.committers.top/singapore/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/singapore/Nimastic.svg)](https://user-badge.committers.top/singapore/Nimastic)
 
 
 <!--START_SECTION:activity-->
