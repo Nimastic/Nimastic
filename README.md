@@ -25,7 +25,7 @@
 </p>
 
   <a href="https://leetcode.com/u/lsy_urea">
-    <img src="https://leetcard.jacoblin.cool/nimastic?theme=dark&font=Ropa%20Sans" />
+    <img src="https://leetcard.jacoblin.cool/Nimastic?theme=dark&font=Ropa%20Sans" />
   </a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nimastic&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
