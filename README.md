@@ -2,6 +2,9 @@
 # Hello! I'm Jeriel 👋
 [Visit my personal website](https://www.jerielchan.com)
 
+[![committers.top badge](https://user-badge.committers.top/singapore/USERNAME.svg)](https://user-badge.committers.top/singapore/USERNAME)
+
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
