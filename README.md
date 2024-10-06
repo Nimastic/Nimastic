@@ -28,7 +28,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nimastic&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/Nimastic/Nimastic/graphs/contributors">
+<!--<a href="https://github.com/Nimastic/Nimastic/graphs/contributors">
   <img src="https://contrib.rocks/image?&columns=25&max=10000&&repo=Nimastic/Nimastic" noZoom />
 </a>
 
@@ -36,4 +36,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Nimastic/Nimastic&type=Date&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Nimastic/Nimastic&type=Date" />
   <img alt="Nimastic/Nimastic" src="https://api.star-history.com/svg?repos=Nimastic/Nimastic&type=Date" />
-</picture>
+</picture>-->
