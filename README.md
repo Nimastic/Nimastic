@@ -10,12 +10,16 @@
 
 
 
-## 📜 Past Internships
-
+## Work Experience
+### Incoming Software Engineering Intern, JPMorgan Chase
+- **Duration:** May 2024 - Present
 ### Software Engineering Intern, Augmodo Inc
 - **Duration:** May 2024 - Present
 ### Software Engineer, Protechs Nutrition
 - **Duration:** May 2024 - July 2024
+### Founding Software Developer, Omegacity 
+- **Duration:** November 2023 - March 2024
+
 ---
 ## 🏆 GitHub Highlights
 [![Jeriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimastic)](https://github.com/Nimastic/github-readme-activity-graph)
