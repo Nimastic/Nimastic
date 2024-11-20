@@ -2,13 +2,6 @@
 # Hello! I'm Jeriel 👋
 [Visit my personal website](https://www.jerielchan.com)
 
-[![committers.top badge](https://user-badge.committers.top/singapore/Nimastic.svg)](https://user-badge.committers.top/singapore/Nimastic)
-
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
 ## Connect with me: <a href="https://linkedin.com/in/jerielchan" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeriel" height="30" width="40" />
 </a>
@@ -32,8 +25,4 @@
   <img src="https://contrib.rocks/image?&columns=25&max=10000&&repo=Nimastic/Nimastic" noZoom />
 </a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Nimastic/Nimastic&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Nimastic/Nimastic&type=Date" />
-  <img alt="Nimastic/Nimastic" src="https://api.star-history.com/svg?repos=Nimastic/Nimastic&type=Date" />
-</picture>
+
