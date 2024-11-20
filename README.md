@@ -11,14 +11,10 @@
 
 
 ## Work Experience
-### Incoming Software Engineering Intern, JPMorgan Chase
-- **Duration:** May 2024 - Present
-### Software Engineering Intern, Augmodo Inc
-- **Duration:** May 2024 - Present
-### Software Engineer, Protechs Nutrition
-- **Duration:** May 2024 - July 2024
-### Founding Software Developer, Omegacity 
-- **Duration:** November 2023 - March 2024
+- **Incoming Software Engineering Intern, JPMorgan Chase** May 2024 - Present
+- **Software Engineering Intern, Augmodo Inc** May 2024 - Present
+- **Software Engineer, Protechs Nutrition** May 2024 - July 2024
+- **Software Developer (Founding Member) Omegacity** November 2023 - March 2024
 
 ---
 ## 🏆 GitHub Highlights
