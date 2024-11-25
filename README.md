@@ -27,7 +27,7 @@
 </p>
 
 <a href="https://leetcode.com/u/jerielchanzy"><img src="https://leetcard.jacoblin.cool/jerielchanzy?theme=dark&font=Ropa%20Sans" /></a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=nimastic&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nimastic&title=Stars,Followers,Commits,Repositories,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
