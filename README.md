@@ -11,7 +11,7 @@
 
 
 ## Work Experience
-- **Incoming Software Engineer Intern, JPMorganChase** | June 2025 - August 2025
+- **Incoming Summer Analyst, Software Engineer Intern, JPMorganChase** | June 2025 - August 2025
 - **Software Engineer Intern, Home Team Science & Technology (HTX)** | December 2024 - February 2025
 - **Software Engineer Intern, Augmodo Inc** | July 2024 - Present
 - **Software Engineer Intern, Protechs Nutrition** | May 2024 - July 2024
