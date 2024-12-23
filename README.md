@@ -3,21 +3,22 @@
 # Hello! I'm Jeriel 👋
 [Visit my personal website](https://www.jerielchan.com)
 
+## Work Experience
+- **Incoming Summer Analyst, Software Engineer Intern, JPMorganChase** | June 2025 - August 2025
+- **Software Engineer Intern, Home Team Science & Technology (HTX)** | December 2024 - February 2025
+- **Software Engineer Intern, Augmodo Inc** | July 2024 - December 2024
+- **Software Engineer Intern, Protechs Nutrition** | May 2024 - July 2024
+- **Software Developer (Founding Member), OmegaCity** | November 2023 - March 2024
+
 ## 🌐 Connect with Me
-<a href="https://linkedin.com/in/jerielchan" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeriel" height="30" width="40" />
+<a href="https://www.linkedin.com/in/jerielchan">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
-## Hello world👋
-
-Probably doing something with life...
-
-Trying to become a backend engineer atm 🤡
 
 ![Metrics](/metrics.classic.svg)
 ![Metrics](/metrics.plugin.leetcode.svg)
 
-<div align="center">
+<!-- <div align="center">
     ================================= 🛠️ My skills 🛠️ =================================
     <br>
     <br>
@@ -25,51 +26,23 @@ Trying to become a backend engineer atm 🤡
         <img src="https://skillicons.dev/icons?i=cs,unity" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin" />
+        <img src="https://skillicons.dev/icons?i=flutter,swift" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=html,css,vue,js" />
+        <img src="https://skillicons.dev/icons?i=html,css,vue,vite,react,next,express,node,js" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
+        <img src="https://skillicons.dev/icons?i=sqlite,firebase,mongodb,mysql,postgresql" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=py,java" />
+        <img src="https://skillicons.dev/icons?i=py,java,javascript,c++" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis" />
-    </div>
-    <div>
-        <br>
-        </b>Currently learning:
-        <br>
-        <be>
-        <img src="https://skillicons.dev/icons?i=fastapi,cpp,react,rust,go,kafka,prometheus" />
+        <img src="https://skillicons.dev/icons?i=docker" />
     </div>
 </div>
 <br>
-<br>
-
-<div align="center">
-    =============================== 🌐 My social media 🌐 ===============================
-    <br>
-    <br>
-    <a href="https://www.linkedin.com/in/jerielchan">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    
-    
-    
-</div>
-
-
-
-## Work Experience
-- **Incoming Summer Analyst, Software Engineer Intern, JPMorganChase** | June 2025 - August 2025
-- **Software Engineer Intern, Home Team Science & Technology (HTX)** | December 2024 - February 2025
-- **Software Engineer Intern, Augmodo Inc** | July 2024 - Present
-- **Software Engineer Intern, Protechs Nutrition** | May 2024 - July 2024
-- **Software Developer (Founding Member), OmegaCity** | November 2023 - March 2024
+<br> -->
 
 ---
 ## 🏆 GitHub Highlights
