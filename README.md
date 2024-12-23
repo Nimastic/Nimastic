@@ -8,6 +8,60 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeriel" height="30" width="40" />
 </a>
 
+## Hello world👋
+
+Probably doing something with life...
+
+Trying to become a backend engineer atm 🤡
+
+![Metrics](/metrics.classic.svg)
+![Metrics](/metrics.plugin.leetcode.svg)
+
+<div align="center">
+    ================================= 🛠️ My skills 🛠️ =================================
+    <br>
+    <br>
+    <div>
+        <img src="https://skillicons.dev/icons?i=cs,unity" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=html,css,vue,js" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=py,java" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis" />
+    </div>
+    <div>
+        <br>
+        </b>Currently learning:
+        <br>
+        <be>
+        <img src="https://skillicons.dev/icons?i=fastapi,cpp,react,rust,go,kafka,prometheus" />
+    </div>
+</div>
+<br>
+<br>
+
+<div align="center">
+    =============================== 🌐 My social media 🌐 ===============================
+    <br>
+    <br>
+    <a href="https://www.linkedin.com/in/jerielchan">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+    
+    
+    
+</div>
+
 
 
 ## Work Experience
