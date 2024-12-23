@@ -15,9 +15,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-![Metrics](/metrics.classic.svg)
-![Metrics](/metrics.plugin.leetcode.svg)
-
 <!-- <div align="center">
     ================================= 🛠️ My skills 🛠️ =================================
     <br>
@@ -53,9 +50,12 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimastic&theme=highcontrast&hide_border=true" alt="Nimastic" />
 </p>
 
+![Metrics](/metrics.plugin.leetcode.svg)
+
+<!-- ![Metrics](/metrics.classic.svg)
 <a href="https://leetcode.com/u/jerielchanzy"><img src="https://leetcard.jacoblin.cool/jerielchanzy?theme=dark&font=Ropa%20Sans" /></a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=nimastic&title=Stars,Followers,Commits,Repositories,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+--- -->
 
 
