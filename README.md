@@ -43,6 +43,10 @@
 
 ---
 ## 🏆 GitHub Highlights
+[![Jeriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimastic)](https://github.com/Nimastic)
+[![Jeriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimastic&theme=github-compact)](https://github.com/Nimastic)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nimastic)](https://git.io/streak-stats)
+
 [![Jeriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimastic)](https://github.com/Nimastic/github-readme-activity-graph)
 
 <p align="center">
