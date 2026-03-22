@@ -15,37 +15,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<!-- <div align="center">
-    ================================= 🛠️ My skills 🛠️ =================================
-    <br>
-    <br>
-    <div>
-        <img src="https://skillicons.dev/icons?i=cs,unity" />
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=flutter,swift" />
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=html,css,vue,vite,react,next,express,node,js" />
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=sqlite,firebase,mongodb,mysql,postgresql" />
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=py,java,javascript,c++" />
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=docker" />
-    </div>
-</div>
-<br>
-<br> -->
-
----
-## 🏆 GitHub Highlights
-[![Jeriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimastic)](https://github.com/Nimastic)
-[![Jeriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimastic&theme=github-compact)](https://github.com/Nimastic)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nimastic)](https://git.io/streak-stats)
 
 [![Jeriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimastic)](https://github.com/Nimastic/github-readme-activity-graph)
 
