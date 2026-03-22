@@ -8,7 +8,7 @@
 - **Software Engineer Intern, Augmodo Inc** | July 2024 - May 2025
 - **Software Engineer Intern, Home Team Science & Technology (HTX)** | December 2024 - April 2025
 - **Software Engineer Intern, Protechs Nutrition** | May 2024 - July 2024
-- **Software Developer (Founding Member), OmegaCity** | November 2023 - March 2024
+- **Software Developer, OmegaCity** | November 2023 - March 2024
 
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/jerielchan">
