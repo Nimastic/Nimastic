@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.053380782918154 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">742</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3934</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.121219822109275 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">743</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3935</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -37,9 +37,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.927529182879375 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">387</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2056</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.05736509479825 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">388</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2057</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -63,11 +63,11 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x447</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x448</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x180</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x177</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x109</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x106</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x107</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x99</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Matrix <span class="count">x81</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x76</span></div>
@@ -87,7 +87,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Unique Paths</div>
+                            <div class="title">Best Time to Buy and Sell Stock II</div>
                             <div class="date">18 May 2026</div>
                         </div>
                     </div>
@@ -96,7 +96,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Coin Change</div>
+                            <div class="title">Unique Paths</div>
                             <div class="date">18 May 2026</div>
                         </div>
                     </div>
